@@ -14,3 +14,9 @@ npx create-react-app tsx-baseline --template redux-typescript
 cd ./tsx-baseline
 npm eject
 ```
+
+## POC 1
+
+Try this. 
+Grab that baseline app, branch off it as `POC/1`
+Add the JSX and TSX files from `dt9-banner-admin`

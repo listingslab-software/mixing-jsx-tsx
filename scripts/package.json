@@ -1,0 +1,15 @@
+{
+    "name": "@listingslab/make-json",
+    "version": "2.0.0",
+    "description": "Creates a JSON index of a file system",
+    "main": "index.mjs",
+    "type": "module",
+    "scripts": {
+        "start": "npm run node",
+        "test": "clear && echo \"Nothing to test\" && exit 1",
+        "node": "clear && node index.mjs"
+    },
+    "dependencies": {
+        "nodemon": "^2.0.15"
+    }
+}

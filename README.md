@@ -19,4 +19,4 @@ npm eject
 
 Try this. 
 Grab that baseline app, branch off it as `POC/1`
-Add the JSX and TSX files from `dt9-banner-admin`
+Add the JSX and TSX files

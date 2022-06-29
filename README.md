@@ -15,7 +15,7 @@ cd ./jsx-baseline
 npm eject
 ```
 
-## POC 1
+## POC 2
 
 Try this. 
 Grab that baseline app, branch off it as `POC/2`
